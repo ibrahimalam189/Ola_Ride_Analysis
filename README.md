@@ -15,4 +15,4 @@ Revenue and payment analysis
 Ratings & vehicle performance
 
 📊 Tech Stack:
-Excel | MySQL | Power BI
+Excel | MySQL | Power BI  
